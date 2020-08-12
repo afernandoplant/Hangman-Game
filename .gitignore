@@ -1,8 +1,2 @@
 node_modules
 package-lock.json
-.babelrc
-package.json
-webpack.config.js
-hangman.js
-index.js
-requests.js
